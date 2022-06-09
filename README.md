@@ -2,11 +2,6 @@
 
 A Grade School Fraction Calculator
 
-**Date assigned:** Friday, September 10, 2021
-
-**Program due:** Friday, September 17, 2021, \[9:15AM Sect 02; 1:00PM
-Sect 01\]
-
 **Points:** 25
 
 **This is an individual assignment.**
@@ -64,8 +59,7 @@ Press any key to close this window . . .
         assignment as we've done in lab. Once accepted, code up a
         complete solution to the above assignment specification. Your
         complete solution is to be pushed to GitHub no later than the
-        date and time specified above for your specific section. I will
-        only grade your solution from the proper location on GitHub.
+        date and time specified above for your specific section.
 
     b.  Pay attention to the example output above. Your program's output
         must look **exactly** like the example output! The spacing and
