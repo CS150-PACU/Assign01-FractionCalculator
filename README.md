@@ -8,7 +8,7 @@ A Grade School Fraction Calculator
 
 **Goals:**
 
-1.  Write a complete program using Visual Studio 2019
+1.  Write a complete program
 
 2.  Use GitHub for version control
 
@@ -16,7 +16,7 @@ A Grade School Fraction Calculator
     arithmetic operators
 
 If you run into any problems with this assignment, it is important that
-you come and see me or a tutor [early]{.ul} so that we can help. Also,
+you come and see me or a tutor *early* so that we can help. Also,
 it is very important for you to do this assignment on your own. Every
 assignment you will be doing from now on will require the techniques you
 learned in class and in the lab. Tutors will answer specific questions
