@@ -81,4 +81,4 @@ Press any key to close this window . . .
         considered late.
 
 > **Good luck! And remember, if you have any problems, come and see
-> straight away. **
+> straight away. **
